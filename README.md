@@ -17,34 +17,8 @@ unchanged from vanilla.
 One water block underground hydrates the 5x5 area of farmland directly above
 and around it.
 
-Top view of the farmland layer:
+![Watered Roots watering layers](docs/images/watered-roots-layers.png)
 
-```text
-F F F F F
-F F F F F
-F F F F F
-F F F F F
-F F F F F
-```
-
-The layer one block below:
-
-```text
-D D D D D
-D D D D D
-D D W D D
-D D D D D
-D D D D D
-```
-
-Side view through the center:
-
-```text
-F F F F F
-D D W D D
-```
-
-`F` is farmland, `W` is water, and `D` is dirt, stone, or another block.
 Vanilla water placed beside farmland continues to work normally.
 
 ## Build
