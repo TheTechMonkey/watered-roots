@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "watered_roots",
+  "version": "${version}",
+  "name": "Watered Roots",
+  "description": "Lets underground water hydrate a 5x5 area of farmland while preserving normal vanilla watering.",
+  "authors": [
+    "TechMonkey"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.techmonkey.watered_roots.WateredRoots"
+    ]
+  },
+  "mixins": [
+    "watered_roots.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25"
+  }
+}
