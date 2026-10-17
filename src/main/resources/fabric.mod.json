@@ -9,6 +9,7 @@
   ],
   "contact": {},
   "license": "MIT",
+  "icon": "assets/watered_roots/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
