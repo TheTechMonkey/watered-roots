@@ -3,7 +3,7 @@
   "id": "watered_roots",
   "version": "${version}",
   "name": "Watered Roots",
-  "description": "Lets underground water hydrate a 5x5 area of farmland while preserving normal vanilla watering.",
+  "description": "Lets underground water hydrate a 5x5 area of farmland and support sugar cane while preserving normal vanilla watering.",
   "authors": [
     "TechMonkey"
   ],
